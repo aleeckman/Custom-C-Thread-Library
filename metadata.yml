@@ -1,0 +1,13 @@
+---
+:id: 55120343
+:submitters:
+- :name: Andrew Eeckman
+  :email: aleeckman@ucdavis.edu
+- :name: Wing Lo
+  :email: wclo@ucdavis.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-11-13 07:51:48.535134000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-11-12 23:51:48.535134000 Z
+:status: processed
