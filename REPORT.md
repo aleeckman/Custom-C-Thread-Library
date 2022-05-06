@@ -1,5 +1,4 @@
-#  ECS 150 Project #2 Report
-Andrew Eeckman (914834317) & Wing Cheong Lo (917055287)
+## Custom Thread Library
 
 ## Queue API Implementation
 
